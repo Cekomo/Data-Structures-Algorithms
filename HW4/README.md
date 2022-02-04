@@ -1,0 +1,1 @@
+AlgorithmSortQuick sort method is added.
